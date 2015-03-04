@@ -1,0 +1,2 @@
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\DrollRandom\bin\Debug\DrollRandom.dll
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\DrollRandom\bin\Debug\DrollRandom.pdb

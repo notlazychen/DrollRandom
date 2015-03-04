@@ -1,0 +1,4 @@
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\bin\Release\DrollRandom.dll
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\bin\Release\DrollRandom.pdb
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\DrollRandom\obj\Release\DrollRandom.dll
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\DrollRandom\obj\Release\DrollRandom.pdb
