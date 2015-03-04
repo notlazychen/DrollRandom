@@ -1,0 +1,5 @@
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\bin\Release\RandomCSharp.exe
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\bin\Release\RandomCSharp.pdb
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\RandomCSharp\obj\Release\RandomCSharp.csprojResolveAssemblyReference.cache
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\RandomCSharp\obj\Release\RandomCSharp.exe
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\RandomCSharp\obj\Release\RandomCSharp.pdb

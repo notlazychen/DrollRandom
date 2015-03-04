@@ -1,0 +1,5 @@
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\bin\Release\CompareTool.exe
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\bin\Release\CompareTool.pdb
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\CompareTool\obj\Release\CompareTool.csprojResolveAssemblyReference.cache
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\CompareTool\obj\Release\CompareTool.exe
+c:\users\crower\documents\visual studio 2013\Projects\DrollRandom\CompareTool\obj\Release\CompareTool.pdb
